@@ -1,0 +1,5 @@
+
+My Name is Debajyoti . Software Engineer (GenAI Engineer) and Data Science enthusiast with 2+ years of experience building scalable backend
+systems and AI-driven platforms. Skilled in machine learning, NLP, transformer architectures, and generative AI, with
+hands-on experience using FastAPI and AWS (Lambda, SQS, RDS, Bedrock) to deliver production-grade solutions. Led
+multiple GenAI and ML initiatives including clinical document automation and
